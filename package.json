@@ -1,0 +1,11 @@
+{
+  "name": "scraper-pipeline",
+  "private": true,
+  "workspaces": [
+    "ecommerce_scrapper/puppeteer-ecommerce-scraper",
+    "llm-scraper"
+  ],
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
